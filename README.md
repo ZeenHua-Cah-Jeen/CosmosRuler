@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CosmosRuler
+- 👋 Hi, I’m Cosmos Ruler @ZeenHua-Cah-Jeen 
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning Go
 - 💞️ I’m looking to collaborate on Chinese encoding and programing
