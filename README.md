@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Cosmos Ruler @ZeenHua-Cah-Jeen 
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Go
+- 👀 I’m interested in Python, C, Go, Rust
+- 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on Chinese encoding and programing
 - 📫 How to reach me is by QQ:3084346372
 
